@@ -307,7 +307,7 @@ DC01
 192.168.90.10
 ```
 
-## 8. Chương 5 — DNS
+# 8. Chương 5 — DNS
 
 DNS là thành phần **cực kỳ quan trọng** đối với AD.
 
@@ -398,7 +398,7 @@ Security Group dùng để:
 
 Không nên nhầm hai khái niệm này.
 
-## 10. Chương 7 — DHCP
+# 10. Chương 7 — DHCP
 
 DHCP có nhiệm vụ cấp:
 ```
@@ -745,7 +745,7 @@ ALLOW VLAN10 → ANY
 ```
 phải đặt Block trước Allow.
 
-## 19. Chương 16 — Chính sách Internet theo AD/NPS/VLAN
+# 19. Chương 16 — Chính sách Internet theo AD/NPS/VLAN
 
 Đây là nơi hoàn thành mục tiêu ban đầu của bạn.
 
@@ -1218,6 +1218,7 @@ File Server       Backup
 | Audit                | Windows/pfSense/Cisco |
 
 # 35. Những nguyên tắc không được phá vỡ
+
 **Nguyên tắc 1 — DC phải có IP tĩnh**
 ```
 DC01 = 192.168.90.10
