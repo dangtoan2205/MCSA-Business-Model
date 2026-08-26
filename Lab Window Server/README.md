@@ -1,4 +1,4 @@
-<img width="1848" height="893" alt="image" src="https://github.com/user-attachments/assets/f43ea957-918c-4892-baa9-307e8d7ee549" />TÀI LIỆU TỔNG THỂ TRIỂN KHAI HẠ TẦNG IT DOANH NGHIỆP
+TÀI LIỆU TỔNG THỂ TRIỂN KHAI HẠ TẦNG IT DOANH NGHIỆP
 ----
 
 # 1. Mục tiêu của toàn bộ hệ thống
